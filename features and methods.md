@@ -2,4 +2,4 @@
 2. This project uses React’s useState hook to manage component state effectively, allowing dynamic UI updates and interactive user experiences.<br/>
 3. This project uses onChange event handler that enables real time state updates and responsive form behaviour in components. <br/>
 4. We use onSubmit event handler to manage form submissions which allow data handling and prevent default browser behaviour. <br/>
-5.
+5. We also use onclick function on Delete button to delete the task and splice feature to delete dynamically.
